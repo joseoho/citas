@@ -1,0 +1,54 @@
+.item {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	font-weight: bold;
+}
+.input {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+	border: 1px solid #666666;
+}
+.titulotabla {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #8F8F8F;
+	letter-spacing: 0.3em;
+	text-align: left;
+	vertical-align: middle;
+	text-indent: 2pt;
+}
+.imprim {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+	text-decoration: none;
+	word-spacing:	0.2em;
+	letter-spacing: 0.1em;
+	line-height:	10px;
+}
+.imprimc {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+	text-decoration: none;
+	word-spacing:	0.2em;
+	letter-spacing: 0.2em;
+	line-height:	10px;
+}
+.subtitulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #333333;
+}
+.inputvin {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	border: 1px solid #0000FE;
+	text-align: center;
+}
